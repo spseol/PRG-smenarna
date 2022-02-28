@@ -14,6 +14,9 @@ směnárna měnu a částku, kterou chce zákazník nakoupit a výstupem je čá
 Kč, kterou má zákazník zaplatit. Uživatel jako výstup uvidí směněnou částku
 zaokrouhlenou na celé koruny.
 
+Příklad GUI je zde. Pro výběr použijte widgety [RadioButton](http://tkinter.programujte.com/radiobutton.htm)
+a [ListBox](http://tkinter.programujte.com/listbox.htm)
+
 ![GUI](smenarna_gui.png)
 
 
